@@ -40,3 +40,17 @@ AWS Certified Cloud Practitioner
 Contact
 
 [LinkedIn](https://www.linkedin.com/in/isabele-fillies-b20a27329)
+
+🚀 Featured Projects
+
+1. Recruitment Workflow Automation
+Python-based integration between Lark Approval and Quickin using REST APIs.
+
+Implemented data mapping, validation, SQLite persistence, idempotency, retry mechanisms and automated testing.
+
+[View Project](https://github.com/SEU-USUARIO/recruitment-workflow-automation)
+
+2. Financial Spreadsheet Monitoring
+Python automation for daily spreadsheet monitoring and automated email notifications.
+
+[View Project](https://github.com/SEU-USUARIO/financial-spreadsheet-monitor)
